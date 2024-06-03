@@ -1,0 +1,4 @@
+### Ignore packages too large to upload to git ###
+*.csv
+venv/bin/torch/
+venv/lib/python3.12/site-packages/torch/
